@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerializeObjectPerson", "SerializeObjectPerson\SerializeObjectPerson.csproj", "{FBA1B477-DEBE-4503-9FC2-076ACA338CEA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerializeObjectPersonSerializationTests", "SerializeObjectPersonSerializationTests\SerializeObjectPersonSerializationTests.csproj", "{565C3441-4FCE-4EF6-AFCF-2137C212658A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBA1B477-DEBE-4503-9FC2-076ACA338CEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBA1B477-DEBE-4503-9FC2-076ACA338CEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBA1B477-DEBE-4503-9FC2-076ACA338CEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBA1B477-DEBE-4503-9FC2-076ACA338CEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{565C3441-4FCE-4EF6-AFCF-2137C212658A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{565C3441-4FCE-4EF6-AFCF-2137C212658A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{565C3441-4FCE-4EF6-AFCF-2137C212658A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{565C3441-4FCE-4EF6-AFCF-2137C212658A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5239B0B5-8E3E-4D48-BEA1-E20436CB40F5}
+	EndGlobalSection
+EndGlobal
